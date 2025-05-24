@@ -1,0 +1,47 @@
+/*
+Template Name: Institute
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************contact****************/
+.contact_1ril span {
+width: 70px;
+height: 70px;
+line-height: 70px;
+}
+/*********************contact_end****************/
+
+
+@media screen and (max-width : 767px){
+.contact_1r{
+margin-top:15px;
+text-align:center; 
+ }
+.contact_1rir{
+margin-top:15px; 
+ }
+ }
+
+@media (min-width:576px) and (max-width:767px) {
+
+
+ }
+@media (min-width:768px) and (max-width:991px) {
+.contact_1ril span {
+width: 50px;
+height: 50px;
+line-height: 50px;
+font-size:20px!important;
+}
+ }
+
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1330px) {
+
+ }
+
+
